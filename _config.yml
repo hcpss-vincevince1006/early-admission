@@ -1,6 +1,6 @@
 # Site settings
 
-baseurl: "/early-admission" 
+baseurl: "/early-admission/" 
 
 # Build settings
 markdown: kramdown
